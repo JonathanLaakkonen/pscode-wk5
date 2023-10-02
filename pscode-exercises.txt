@@ -1,0 +1,23 @@
+// Exercise 1: Calculate the Sum of Two Numbers
+
+Input(x) + Input(y) = Result
+
+// Exercise 2: Check if a Number is even or odd
+
+if (number / 2) == Zero, print(This number is even). Else, print(this number is odd)
+
+// Exercise 3: 
+Write pseudo code that will perform the following.    
+
+a) Read in 5 separate numbers.   
+b) Calculate the average of the five numbers.
+c) Find the smallest (minimum) and largest (maximum) of the five entered numbers.
+d) Write out the results found from steps b and c with a message describing what they are
+
+a) Input(1), Input(2), Input(3), Input(4), Input(5)
+b) (( Input(1) + Input(2) + Input(3) + Input(4) + Input(5) ))/ 5 = Result1
+c) Use Elif statements to compare the numbers and find which one is largest, call this Result2.
+   Use Elif statements to compare the numbers and find which one is smallest, call this Result3
+d) print(The average of these numbers is ) + Result1 + (, The largest of the numbers is ) + Result2 + (, the smallest of these numbers is ) + Result3
+
+-- END --
